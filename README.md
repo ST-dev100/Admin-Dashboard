@@ -2,7 +2,7 @@
 
 
 
-![Product Gif](https://i.ibb.co/YjWPdyT/vision-ui-free-react.png)
+![Vision UI Dashboard Free Chakra](/public/vision-ui-dashboard-free-chakra.png) 
 
 
 
@@ -22,7 +22,7 @@ We created many examples for pages like Sign In, Profile and so on. Just choose 
 - [ReactJS](https://reactjs.org?ref=creative-tim) - A popular JavaScript library for building user interfaces
 
 
-[![Vision UI Dashboard Free Chakra](https://i.ibb.co/kg5mNxm/vision-ui-free-chakra-ct.png)](https://www.creative-tim.com/product/vision-ui-dashboard-chakra?ref=readme-vudreact) |
+![Vision UI Dashboard Free Chakra](/public/vision-ui-dashboard-free-chakra.png) 
 
 
 
